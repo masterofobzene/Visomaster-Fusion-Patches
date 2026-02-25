@@ -57,7 +57,7 @@ My personal advice is to make a backup before updating the app.
 
  2- WHY NO FORKIN'?
  
- ``Developers refused all my ideas. There is no point.``
+ ``Developers rejected all my ideas. There is no point.``
 
  3- Hey! this is LLM's code!
 
