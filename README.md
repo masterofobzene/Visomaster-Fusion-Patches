@@ -38,7 +38,27 @@ My personal advice is to make a backup before updating the app.
 
 ### THIS IS NOT THE ENTIRE APP. YOU MUST INSTALL IT FIRST USING THE [PORTABLE VERSION](https://github.com/VisoMasterFusion/VisoMaster-Fusion/blob/main/Start_Portable.bat) THEY HAVE.
 
+<br/>
+<br/>
+
+ You don't need to be a simp here 😉. No discord required, privacy first.
+
+<br/>
+<br/>
+<br/>
+
+> [!NOTE]
+>  __ANTI TROLLING SECTION:__
 
 
+ 1- OhH NOoOes!! No SoURce CodE HEre! thiz muzt be a ViRuZ!!
+ 
+ ``Just download the zip, unzip, and open the .py files with Notepad++ to check the code.``
 
- You don't need to be a simp here 😉.
+ 2- WHY NO FORKIN'?
+ 
+ ``Developers refused all my ideas. There is no point.``
+
+ 3- Hey! this is LLM's code!
+
+  ``Bingo.``
