@@ -1,4 +1,4 @@
-# THIS IS FOR HARDCODING YOUR EMBEDDING OUTPUTS TO AN ESPECIFIED FOLDER TO MOVE THEM AT ONCE.
+# THIS IS FOR HARDCODING YOUR EMBEDDING OUTPUTS TO AN ESPECIFIED FOLDER TO MOVE THEM ALL AT ONCE.
 # ====================================================================================
 # ====================================================================================
 
