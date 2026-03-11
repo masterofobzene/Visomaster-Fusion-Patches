@@ -1,23 +1,9 @@
 # Visomaster-Fusion-Patches
-A patch that adds stuff for Visomaster that developers refused. 
+A patch that adds stuff for Visomaster that developers refused and fixes "features" that they add. 
 
 -------------------------------------------------------------------------------------------------------------
 
-### WHAT DOES IT ADD?
-
-- If you use embeddings, your output files will be put into a folder named after the embedding you use (will still use your output path to create those folders). (*1)
-- A 'Clear Media' button to let you remove (not delete) and unload the media you loaded into "target videos/images" also unloading the currently loaded file. (*2)
-- Mouse scroll wheel will not move sliders if you do not focus on them first by clicking them. (*3)
-
-
-### WHAT FOR?
-
-*1 If you work with many characters that you want to classify, you know that mixing all of them into the same folder can be troublesome later. This lets you have each character into its own folder for easy classification and management. You will have to name your embeddings accordingly for this to have any meaning.
-
-*2 If you leave an image or video loaded in Viso, close it, then delete that file, the app will not launch anymore without manually removing that file from your workspace.json file. This button makes it easier to "clean before exit" and prevents this. Also, its easier than having to go on each one removing it or selecting a dummy empty folder.
-
-*3 I was tired of modifying settings accidentally while scrolling the right panel. This option gives you freedom, no more "finding the good spot to scroll".
-
+Check [releases](https://github.com/masterofobzene/Visomaster-Fusion-Patches/releases) for details on what these patches do.
 
 -------------------------------------------------------------------------------------------------------------
 
