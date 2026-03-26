@@ -21,7 +21,7 @@ My personal advice is to make a backup before updating the app.
 
 
 
-### THIS IS NOT THE ENTIRE APP. YOU MUST INSTALL IT FIRST USING THE PORTABLE VERSION THEY HAVE. RIGHT CLICK ON [THIS LINK](https://github.com/VisoMasterFusion/VisoMaster-Fusion/blob/main/Start_Portable.bat) -> SAVE AS.
+### THIS IS NOT THE ENTIRE APP. YOU MUST INSTALL IT FIRST USING THE PORTABLE VERSION THEY HAVE. RIGHT CLICK ON [THIS LINK](https://github.com/VisoMasterFusion/VisoMaster-Fusion/blob/dev/Start_Portable.bat) -> SAVE AS.
 
 <br/>
 <br/>
